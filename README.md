@@ -8,4 +8,4 @@ A simple To-Do List web app built with HTML, CSS and vanilla JavaScript.
 - Tasks are saved in the browser (localStorage)
 
 ## Live Demo
-https://fardeenbuilds.github.io/todo-list/
+//fardeenbuilds.github.io/-TO-DO-LIST/
